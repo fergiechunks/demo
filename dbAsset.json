@@ -1,14 +1,14 @@
 {
   "assets": [
-    {"asset_id": 1, "asset_name": "Asset 1", "date": "2023-10-20", "value": 100},
-    {"asset_id": 2, "asset_name": "Asset 2", "date": "2023-10-20", "value": 150},
-    {"asset_id": 3, "asset_name": "Asset 3", "date": "2023-10-21", "value": 200},
-    {"asset_id": 4, "asset_name": "Asset 4", "date": "2023-10-21", "value": 250},
-    {"asset_id": 5, "asset_name": "Asset 5", "date": "2023-10-22", "value": 300},
-    {"asset_id": 6, "asset_name": "Asset 6", "date": "2023-10-22", "value": 350},
-    {"asset_id": 7, "asset_name": "Asset 7", "date": "2023-10-23", "value": 400},
-    {"asset_id": 8, "asset_name": "Asset 8", "date": "2023-10-23", "value": 450},
-    {"asset_id": 9, "asset_name": "Asset 9", "date": "2023-10-24", "value": 500},
-    {"asset_id": 10, "asset_name": "Asset 10", "date": "2023-10-24", "value": 550}
+    {"id": 1, "name": "Asset 1", "date": "2023-10-20", "value": 100, "updatedOn": "2023-10-21"},
+    {"id": 2, "name": "Asset 2", "date": "2023-10-20", "value": 150, "updatedOn": "2023-10-21"},
+    {"id": 3, "name": "Asset 3", "date": "2023-10-21", "value": 200, "updatedOn": "2023-10-22"},
+    {"id": 4, "name": "Asset 4", "date": "2023-10-21", "value": 250, "updatedOn": "2023-10-22"},
+    {"id": 5, "name": "Asset 5", "date": "2023-10-22", "value": 300, "updatedOn": "2023-10-23"},
+    {"id": 6, "name": "Asset 6", "date": "2023-10-22", "value": 350, "updatedOn": "2023-10-23"},
+    {"id": 7, "name": "Asset 7", "date": "2023-10-23", "value": 400, "updatedOn": "2023-10-24"},
+    {"id": 8, "name": "Asset 8", "date": "2023-10-23", "value": 450, "updatedOn": "2023-10-24"},
+    {"id": 9, "name": "Asset 9", "date": "2023-10-24", "value": 500, "updatedOn": "2023-10-25"},
+    {"id": 10, "name": "Asset 10", "date": "2023-10-24", "value": 550, "updatedOn": "2023-10-25"}
   ]
 }
