@@ -1,0 +1,8 @@
+{
+  "assets": [
+    {"asset_id": 1, "asset_name": "Asset 1", "date": "2023-10-20", "value": 100},
+    {"asset_id": 2, "asset_name": "Asset 2", "date": "2023-10-20", "value": 150}
+]
+}
+
+
